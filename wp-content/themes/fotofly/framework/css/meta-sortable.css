@@ -1,0 +1,6 @@
+#portfoliocustomoptions{
+	display: none;
+}
+#proof_pixgallery ul li{display: inline-block;margin-right: 5px;margin-bottom: 5px;} #proof_pixgallery ul li img{width: 100px;height: 100px;}
+
+.redux-notice,.redux-message,.rAds{display: none !important;}

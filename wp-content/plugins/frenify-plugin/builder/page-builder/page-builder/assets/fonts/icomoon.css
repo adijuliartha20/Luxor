@@ -1,0 +1,263 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot');
+	src:url('fonts/icomoon.eot?#iefix') format('embedded-opentype'),
+		url('fonts/icomoon.woff') format('woff'),
+		url('fonts/icomoon.ttf') format('truetype'),
+		url('fonts/icomoon.svg#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="frenifya-"], [class*=" frenifya-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.frenifya-logo:before {
+	content: "\e639";
+}
+.frenifya-footer:before {
+	content: "\e637";
+}
+.frenifya-page_title:before {
+	content: "\e636";
+}
+.frenifya-loop-alt2:before {
+	content: "\e62e";
+}
+.frenifya-anchor:before {
+	content: "\e62f";
+}
+.frenifya-columns:before {
+	content: "\e600";
+}
+.frenifya-file-alt:before {
+	content: "\e601";
+}
+.frenifya-copy:before {
+	content: "\e602";
+}
+.frenifya-exclamation-sign:before {
+	content: "\e603";
+}
+.frenifya-blog:before {
+	content: "\e604";
+}
+.frenifya-check-empty:before {
+	content: "\e605";
+}
+.frenifya-list-ul:before {
+	content: "\e606";
+}
+.frenifya-users:before {
+	content: "\e612";
+}
+.frenifya-newspaper:before {
+	content: "\e613";
+}
+.frenifya-clock:before {
+	content: "\e614";
+}
+.frenifya-browser:before {
+	content: "\e615";
+}
+.frenifya-d:before {
+	content: "\e61d";
+}
+.frenifya-air:before {
+	content: "\e616";
+}
+.frenifya-map:before {
+	content: "\e617";
+}
+.frenifya-flag:before {
+	content: "\e608";
+}
+.frenifya-move-horizontal:before {
+	content: "\e61e";
+}
+.frenifya-uniF6CC:before {
+	content: "\e61f";
+}
+.frenifya-image:before {
+	content: "\e620";
+}
+.frenifya-images:before {
+	content: "\e621";
+}
+.frenifya-uniF602:before {
+	content: "\e622";
+}
+.frenifya-stack:before {
+	content: "\e623";
+}
+.frenifya-user:before {
+	content: "\e618";
+}
+.frenifya-dollar:before {
+	content: "\e609";
+}
+.frenifya-tasks:before {
+	content: "\e60a";
+}
+.frenifya-feather:before {
+	content: "\e619";
+}
+.frenifya-uniF61C:before {
+	content: "\e624";
+}
+.frenifya-insertpicture:before {
+	content: "\e625";
+}
+.frenifya-link:before {
+	content: "\e61b";
+}
+.frenifya-soundcloud:before {
+	content: "\e61c";
+}
+.frenifya-table:before {
+	content: "\e60b";
+}
+.frenifya-folder:before {
+	content: "\e62b";
+}
+.frenifya-list-alt:before {
+	content: "\e60c";
+}
+.frenifya-bubbles:before {
+	content: "\e626";
+}
+.frenifya-font:before {
+	content: "\e627";
+}
+.frenifya-H:before {
+	content: "\e628";
+}
+.frenifya-expand-alt:before {
+	content: "\e60d";
+}
+.frenifya-hand-up:before {
+	content: "\e60e";
+}
+.frenifya-film:before {
+	content: "\e60f";
+}
+.frenifya-star-empty:before {
+	content: "\e610";
+}
+.frenifya-shopping-cart:before {
+	content: "\e611";
+}
+.frenifya-share2:before {
+	content: "\e629";
+}
+.frenifya-layers-alt:before {
+	content: "\e62a";
+}
+.frenifya-minus:before {
+	content: "\e61a";
+}
+.frenifya-TFicon:before {
+	content: "\e62d";
+}
+.frenifya-youtube:before {
+	content: "\e607";
+}
+.frenifya-vimeo2:before {
+	content: "\e62c";
+}
+.frenifya-sidebar:before {
+	content: "\e634";
+}
+.frenifya-header:before {
+	content: "\e635";
+}
+.frenifya-tag:before {
+	content: "\e632";
+}
+.frenifya-pointer:before {
+	content: "\e630";
+}
+.frenifya-external-link:before {
+	content: "\f08e";
+}
+.frenifya-external-link-square:before {
+	content: "\f14c";
+}
+.frenifya-file:before {
+	content: "\e633";
+}
+.frenifya-ellipsis:before {
+	content: "\e631";
+}
+.frenifya-tools:before {
+	content: "\e63b";
+}
+.frenifya-pin-outline:before {
+	content: "\e63f";
+}
+.frenifya-sitewidth:before {
+	content: "\e63a";
+}
+.frenifya-search:before {
+	content: "\f002";
+}
+.frenifya-envelope-o:before {
+	content: "\f003";
+}
+.frenifya-plus:before {
+	content: "\f067";
+}
+.frenifya-socialmedia:before {
+	content: "\f08a";
+}
+.frenifya-menu:before {
+	content: "\f0c9";
+}
+.frenifya-code:before {
+	content: "\f121";
+}
+.frenifya-css3:before {
+	content: "\f13c";
+}
+.frenifya-equalizer:before {
+	content: "\e638";
+}
+.frenifya-loop:before {
+	content: "\e63c";
+}
+.frenifya-droplet:before {
+	content: "\e63d";
+}
+.frenifya-drive:before {
+	content: "\e63e";
+}
+.frenifya-pen:before {
+	content: "\e640";
+}
+.frenifya-file-add:before {
+	content: "\e641";
+}
+.frenifya-trash-o:before {
+	content: "\f014";
+}
+.frenifya-reply:before {
+	content: "\e642";
+}
+.frenifya-forward:before {
+	content: "\e643";
+}
+.frenifya-plus2:before {
+	content: "\e645";
+	font-size:12px;
+}

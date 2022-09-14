@@ -1,0 +1,175 @@
+.fotofly_fn_bg_all .overlay_color{background-color: #151515;}
+
+/********************** for assets css || start ****************************/
+.fotofly_fn_accordion .accordion_in .acc_head,
+.fotofly_fn_tabs[data-layout="beta"][data-skin="dark"] ul.etabs li a.active{
+	color: #ccc !important;
+	border-bottom-color: #ccc !important;
+}
+
+.fotofly_fn_password_protected_content > .in > div:hover .icon_holder i{color: #ccc !important;}
+
+
+.carouselle .carousel-item .img_holder img{border-color: transparent !important}
+.ref_back{background: #151515 !important}
+
+.flow_list .img_reflection:before{
+	background-image: -webkit-linear-gradient(to bottom, rgba(21,21,21,1) 30%,rgba(21,21,21,0) 100%) !important;
+	background-image: -moz-linear-gradient(to bottom, rgba(21,21,21,1) 30%,rgba(21,21,21,0) 100%) !important;
+	background-image: linear-gradient(to bottom, rgba(21,21,21,1) 30%,rgba(21,21,21,0) 100%) !important;
+}
+.post-password-form input[type='submit']{
+	background-color: #0d0d0d !important;
+	border: 1px solid #1f1f1f !important
+}
+
+.post-password-form input[type='submit']:hover{background-color: #0a0a0a !important;}
+
+
+.fotofly_fn_password_protected_content .icon_holder i:after,
+.fotofly_fn_password_protected_content > .in > div{border-color: #1f1f1f !important}
+
+.fotofly_fn_alert{border-color: #333 !important}
+
+.fotofly_fn_w_portfoliocustom_triple .discover .in,
+.fotofly_fn_w_portfoliocustom_quadruple .discover .in,
+.fotofly_fn_w_portfoliocustom_quintuple .discover .in,
+.fotofly_fn_password_protected_content > .in > div,
+.testimonials .fotofly_fn_item_in.dark .carouselle .carousel-item .xx_b
+.fotofly_fn_password_protected_content > .in > div,
+.fotofly_fn_password_protected_content .icon_holder i{background-color:#0d0d0d !important}
+/* for assets css || end */
+
+
+.woocommerce .quantity .qty,
+.fotofly_fn_comment .input-holder textarea,
+.fotofly_fn_comment .input-holder input.com-text{
+	background-color: #0d0d0d;
+	border-color: #1f1f1f;
+	color: #999;
+}
+.fotofly_fn_error_page .search_holder input[type="submit"]{
+	background-color: #0d0d0d;
+	border: 1px solid #1f1f1f;
+}
+
+
+.fotofly_fn_clients_list.flipped .item,
+.fotofly_fn_clients_list.inline .item .img_holder,
+.fotofly_fn_clients_list.separated_thumb .item .img_holder,
+.fotofly_fn_clients_list.separated_thumb .item,
+.fotofly_fn_clients_list.below_thumb .item,
+.fotofly_fn_clients_list.hover_shadow .item{
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+}
+.fotofly_fn_clients_list.inline .title_holder,
+.fotofly_fn_clients_list.separated_thumb .title_holder,
+.fotofly_fn_clients_list.hover_shadow ul li:hover .item{
+	-webkit-box-shadow: 0px 0px 15px 10px rgba(3,1,3,.3);
+	-moz-box-shadow: 0px 0px 15px 10px rgba(3,1,3,.3);
+	box-shadow: 0px 0px 15px 10px rgba(3,1,3,.3);
+}
+.fotofly_fn_clients_list .item{
+	border-color: transparent;
+	box-shadow: 0px 2px 15px 0px rgba(0,0,0,0.1);
+}
+.fotofly_fn_woo_myaccount .inner{
+	box-shadow: 0px 2px 15px 0px rgba(0,0,0,0.1);
+}
+form.wpcf7-form p input, form.wpcf7-form p textarea{
+	background-color: #0d0d0d;
+	border-color: #1f1f1f;
+}
+
+.fotofly_fn_clients_list.below_thumb .item,
+.fotofly_fn_clients_list.below_thumb .item .img_holder,
+.fotofly_fn_woo_login_inner,
+.fotofly_fn_woo_login_inner:after,
+.woocommerce table.shop_table td.product-remove,
+.product_meta,
+.woocommerce table.shop_table tr,
+.woocommerce table.shop_table,
+.woocommerce form .form-row input.input-text,
+.woocommerce form .form-row textarea,
+.woocommerce #customer_details,
+.woocommerce #order_review,
+.woocommerce form.checkout_coupon,
+.woocommerce form.login,
+.woocommerce form.register,
+div.fotofly_fn_portfolio_list li.nogallery div,
+.woocommerce .woocommerce-ordering select,
+.woocommerce .fn_cart-empty,
+.woocommerce .fn_cart-empty:after,
+.fotofly_fn_prevnext .arrow .prev,
+.fotofly_fn_prevnext .arrow .next,
+.woocommerce #review_form #respond textarea,
+.woocommerce .fotofly_fn_woo_myaccount form .form-row input.input-text,
+.woocommerce .fotofly_fn_woo_myaccount form .form-row textarea,
+.woocommerce-account .woocommerce-MyAccount-content,
+.fotofly_fn_searchpage_nothing > div,
+.fotofly_fn_searchpage_nothing > div:after,
+.fotofly_fn_proofgal .pixproof-data,
+.fotofly_fn_searchpagelist_item,
+ul.fotofly_fn_proofing_list .item,
+.woocommerce #reviews #comments ol.commentlist li:first-child,
+.fotofly_fn_error_page .icon_holder i:after,
+.fotofly_fn_error_page .error_box,
+.woocommerce-account .woocommerce-MyAccount-navigation{border-color: #1f1f1f;}
+
+.fotofly_fn_comment ul.commentlist > li{border-bottom-color: #1f1f1f;}
+.fotofly_fn_comment ul.commentlist > li:first-child{border-top-color: #1f1f1f;}
+
+.fotofly_fn_prevnext .arrow .prev{border-right-color: transparent;border-left-color: transparent}
+.fotofly_fn_prevnext .arrow .next{border-right-color: transparent;}
+
+.woocommerce-account .addresses .title .edit,
+.woocommerce-account .woocommerce-MyAccount-content p a{border-bottom-color: #ccc;}
+
+.fotofly_fn_searchpage_nothing > div:before{background-image: url(../img/home-light.png)}
+.woocommerce .fn_cart-empty:before{background-image: url(../img/cart-light.png);}
+.fotofly_fn_woo_login_inner:before{background-image: url(../img/login-light.png);}
+
+.woocommerce div.product div.summary,
+.fotofly_fn_social_icons > ul > li a.active,
+.fotofly_fn_social_icons > ul > li a:hover{
+	background-color: #050505;
+}
+.fotofly_fn_preloader .fn-cube,
+.fotofly_fn_psingle_mono .close_button .after,
+.fotofly_fn_psingle_mono .close_button .before{background-color: #ccc;}
+
+
+#add_payment_method #payment div.payment_box,
+.woocommerce-cart #payment div.payment_box,
+.woocommerce-checkout #payment div.payment_box{background-color: #050505;}
+
+#add_payment_method #payment div.payment_box::before,
+.woocommerce-cart #payment div.payment_box::before,
+.woocommerce-checkout #payment div.payment_box::before{border-bottom-color: #050505;}
+
+#add_payment_method #payment ul.payment_methods,
+.woocommerce-cart #payment ul.payment_methods,
+.woocommerce-checkout #payment ul.payment_methods{border-bottom-color: #1d1d1d;}
+#add_payment_method .cart-collaterals .cart_totals tr td, #add_payment_method .cart-collaterals .cart_totals tr th, .woocommerce-cart .cart-collaterals .cart_totals tr td, .woocommerce-cart .cart-collaterals .cart_totals tr th, .woocommerce-checkout .cart-collaterals .cart_totals tr td, .woocommerce-checkout .cart-collaterals .cart_totals tr th{border-top-color: #1f1f1f;}
+
+.fotofly_fn_proofgal .pixproof-data button[disabled="disabled"]{
+	color: #444;
+	border-bottom-color: #444;
+}
+.fotofly_fn_proofgal .pixproof-data button[disabled="disabled"]:hover{
+	border-bottom-color: #444;
+}
+
+.fotofly_fn_clients_list.flipped .item .front{border-color: transparent;}
+
+.fotofly_fn_error_page .search_holder input[type="submit"]:hover,
+.fotofly_fn_search input[type="text"]:hover,
+.fotofly_fn_search input[type="text"]:focus{background-color: #000;}
+
+@media (max-width: 480px){
+.fotofly_fn_prevnext[data-switch='next'] .arrow .next {border-top-color: #1f1f1f;}
+.fotofly_fn_prevnext .arrow .next{border-left-color: transparent}
+}
+/***************** for main css || end ****************/
